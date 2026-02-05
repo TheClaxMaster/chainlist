@@ -4339,6 +4339,23 @@
             "discord": "https://discord.com/invite/sns-778660171265474572"
         },
         "type": "DashBoard"
+    },
+    {
+        "id": 246,
+        "name": "Nillion Bridge",
+        "description": "Bridge assets from Nilchain to Ethereum",
+        "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/nillionbridge.png",
+        "link": "https://migrate.nillion.com/",
+        "chains": [
+            "nillon"
+        ],
+        "socials": {
+            "github": "https://github.com/NillionNetwork",
+            "twitter": "https://x.com/nillion",
+            "telegram": "https://t.me/nillionnetwork",
+            "discord": "https://discord.com/invite/nillionnetwork"
+        },
+        "type": "Bridge"
     }
 ]
  
