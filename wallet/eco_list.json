@@ -4347,7 +4347,8 @@
         "thumbnail" : "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/resource/nillionbridge.png",
         "link": "https://migrate.nillion.com/",
         "chains": [
-            "nillon"
+            "nillion",
+            "ethereum"
         ],
         "socials": {
             "github": "https://github.com/NillionNetwork",
