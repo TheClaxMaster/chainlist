@@ -17,6 +17,23 @@
             "title": "$OM -> $MANTRA Upgrade",
             "view_detail": "Learn More",
             "color": "#F835FF"
+        },
+        {
+            "id": "2026-02-06-001",
+            "priority": 1,
+            "startAt": "2026-02-06T00:00:00Z",
+            "endAt": null,
+            "images": {
+                "extension":
+                    "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/ad-resource/extension-2026-02-06-001.png",
+                "mobile":
+                    "https://raw.githubusercontent.com/cosmostation/chainlist/master/wallet/ad-resource/mobile-2026-02-06-001.png"
+            },
+            "linkUrl":
+                "https://nillion.com/news/nillion-now-on-ethereum/",
+            "title": "Notice for $NIL Holder",
+            "view_detail": "Learn More",
+            "color": "#1D78FF"
         }
     ]
 }
