@@ -25,7 +25,9 @@
     "cosmos_fee_info": {
         "base": "0",
         "rate": [
-            "0.0umirage"
+            "5000umirage",
+            "7500umirage",
+            "10000umirage"
         ],
         "is_simulable": true,
         "simulated_gas_multiply": 1.5,
