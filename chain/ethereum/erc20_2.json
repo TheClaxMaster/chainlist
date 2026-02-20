@@ -4353,7 +4353,7 @@
         "type": "erc20",
         "contract": "0xbdf245957992bfbc62b07e344128a1eec7b7ee3f",
         "name": "Babypie Wrapped BTC",
-        "symbol": "Babypie Wrapped BTC",
+        "symbol": "mBTC",
         "description": "Babypie Liquid Staked BTC",
         "decimals": 8,
         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/babypie_mbtc.png",
@@ -4508,6 +4508,176 @@
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usds.png",
         "coinGeckoId": "usds"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x21d99c30a3a5c2aef53d1cdfc704c00fdafa1fb6",
+        "name": "tINIT",
+        "symbol": "tINIT",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/initia/images/INIT.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0xedBd0f9b4344fBCB9B6B747063bDfb9fE246498b",
+        "name": "maxBTC",
+        "symbol": "maxBTC.eureka",
+        "description": "",
+        "decimals": 8,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/maxbtc.png",
+        "coinGeckoId": "maxbtc"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x27292cf0016E5dF1d8b37306B2A98588aCbD6fCA",
+        "name": "axlATOM",
+        "symbol": "axlATOM",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/cosmos/asset/atom.png",
+        "coinGeckoId": "cosmos"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x8236a87084f8B84306f72007F36F2618A5634494",
+        "name": "LBTC",
+        "symbol": "LBTC",
+        "description": "",
+        "decimals": 8,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/lombard/asset/lbtc.png",
+        "coinGeckoId": "lombard-staked-btc"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xBf45A5029d081333407Cc52a84BE5ed40e181C46",
+        "name": "iLBTCv",
+        "symbol": "iLBTCv",
+        "description": "",
+        "decimals": 8,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/lombard/asset/lbtc.png",
+        "coinGeckoId": "lombard-staked-btc"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x736ecc5237b31edec6f1ab9a396fae2416b1d96e",
+        "name": "GASP",
+        "symbol": "GASP",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/gasp.png",
+        "coinGeckoId": "gasp-2"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x14862c03A0cACcC1aB328B062E64e31B2a1afcd7",
+        "name": "SEDA",
+        "symbol": "SEDA",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/seda.png",
+        "coinGeckoId": "seda-2"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x6b7de496080e26ee8567a60b7b823b7e28ebe224",
+        "name": "NIL.old",
+        "symbol": "NIL.old",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nillion/asset/nil.png",
+        "coinGeckoId": "nillion"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x7cf9a80db3b29ee8efe3710aadb7b95270572d47",
+        "name": "NIL",
+        "symbol": "NIL",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nillion/asset/nil.png",
+        "coinGeckoId": "nillion"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x214BF9f07684459aCD56324e3D247b2e5e67D277",
+        "name": "ORAI",
+        "symbol": "ORAI",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/orai-chain/asset/orai.png",
+        "coinGeckoId": "oraichain-token"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xd7a25d995Cf5e4e7D295CF1Dbd0310d2981C50Bb",
+        "name": "BABY",
+        "symbol": "BABY",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/babylon/asset/bbn.png",
+        "coinGeckoId": "babylon"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xA3548f0a67741C45E4Bab9CF180C04034ee61f57",
+        "name": "DVPN",
+        "symbol": "DVPN",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sentinel/asset/dvpn.png",
+        "coinGeckoId": "sentinel"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x176B2c8bAD684dA318fC7F417EEFd97D9a705a7D",
+        "name": "COREUM",
+        "symbol": "COREUM",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/core.png",
+        "coinGeckoId": "coreum"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x9D39A5DE30e57443BfF2A8307A4256c8797A3497",
+        "name": "sUSDe",
+        "symbol": "sUSDe",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/susde.png",
+        "coinGeckoId": "ethena-staked-usde"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xaD55aebc9b8c03FC43cd9f62260391c13c23e7c0",
+        "name": "cUSDO",
+        "symbol": "cUSDO",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/cusdo.png",
+        "coinGeckoId": "compounding-open-dollar"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x0655977FEb2f289A4aB78af67BAB0d17aAb84367",
+        "name": "Savings crvUSD",
+        "symbol": "scrvUSD",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/scrvusd.png",
+        "coinGeckoId": "savings-crvusd"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xbB51E2a15A9158EBE2b0Ceb8678511e063AB7a55",
+        "name": "Midas mEDGE",
+        "symbol": "mEDGE.midas",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/medge.png",
+        "coinGeckoId": "midas-medge"
     }
 ]
 
