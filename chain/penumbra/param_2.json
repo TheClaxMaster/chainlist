@@ -1,0 +1,55 @@
+{
+    "chain_id_cosmos" : "penumbra-1",
+    "chain_name": "Penumbra",
+    "chain_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/penumbra/resource/chain_penumbra.png",
+    "staking_asset_denom" : "upenumbra",
+    "staking_asset_symbol" : "UM",
+    "staking_asset_image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/penumbra/asset/um.png",
+    "bech_account_prefix" : "penumbra",
+    "bech_validator_prefix" : "penumbravaloper",
+    "origin_genesis_time" : "",
+    "api_name" : "penumbra",
+    "is_support_mintscan": false,
+    "is_support_mobile_wallet": false,
+    "is_support_moblie_dapp" : false,
+    "is_support_extension_wallet": false,
+    "chain_type": [
+        "cosmos"
+    ],
+    "account_type" : [
+    ],
+    "cosmos_fee_info" : {
+        "base" : "0",
+        "rate" : [
+            "0.0upenumbra"
+        ],
+        "is_simulable" : true,
+        "simulated_gas_multiply" : 1.2,
+        "init_gas_limit" : 300000,
+        "fee_threshold" : ""
+    },
+    "grpc_endpoint" : [
+    ],
+    "lcd_endpoint" : [
+    ],
+    "explorer" : {
+        "name": "Penumbra Noctis",
+        "url": "https://explorer.penumbra.zone/",
+        "account": "",
+        "tx": "https://explorer.penumbra.zone/tx/${hash}",
+        "proposal": "https://explorer.penumbra.zone/proposal/${id}"
+    },
+    "about" : {
+        "website" : "https://persistence.one/",
+        "docs": "https://guide.penumbra.zone/",
+        "github" : "https://github.com/pk-labs/penumbra-explorer",
+        "twitter" : "https://x.com/penumbrazone",
+        "discord" : "https://discord.com/invite/penumbrazone",
+        "coingecko" : "https://www.coingecko.com/en/coins/penumbra"
+    },
+    "description" : {
+        "ko" : "",
+        "en" : "",
+        "ja" : ""
+    }
+}
