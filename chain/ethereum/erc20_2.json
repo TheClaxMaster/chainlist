@@ -4678,6 +4678,166 @@
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/medge.png",
         "coinGeckoId": "midas-medge"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x030b69280892c888670EDCDCD8B69Fd8026A0BF3",
+        "name": "Midas MEV",
+        "symbol": "mMEV.midas",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/mmev.png",
+        "coinGeckoId": "midas-mmev"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x2a8c22E3b10036f3AEF5875d04f8441d4188b656",
+        "name": "Midas Basis Trading Token",
+        "symbol": "mBASIS.midas",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/mbasis.png",
+        "coinGeckoId": "midas-basis-trading-token"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xDD629E5241CbC5919847783e6C96B2De4754e438",
+        "name": "Midas US Treasury Bill Token",
+        "symbol": "mTBILL.midas",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/mtbill.png",
+        "coinGeckoId": "midas-mtbill"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xFe6c4BB6C51cE6960AA432817b20402ED6146d13",
+        "name": "XPLA",
+        "symbol": "XPLA",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/xpla.png",
+        "coinGeckoId": "xpla"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xD31a59c85aE9D8edEFeC411D448f90841571b89c",
+        "name": "SOL.wh",
+        "symbol": "SOL.wh",
+        "description": "",
+        "decimals": 9,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/sol.png",
+        "coinGeckoId": "sol-wormhole"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+        "name": "Badger",
+        "symbol": "BADGER",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/badger.png",
+        "coinGeckoId": "badger-dao"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x320623b8E4fF03373931769A31Fc52A4E78B5d70",
+        "name": "Reserve Rights",
+        "symbol": "RSR",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/rsr.png",
+        "coinGeckoId": "reserve-rights-token"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+        "name": "USDe",
+        "symbol": "USDe",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usde.png",
+        "coinGeckoId": "ethena-usde"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xBB0E17EF65F82Ab018d8EDd776e8DD940327B28b",
+        "name": "Axie Infinity Shard",
+        "symbol": "AXS",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/axs.png",
+        "coinGeckoId": "axie-infinity"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x57e114B691Db790C35207b2e685D4A43181e6061",
+        "name": "Ethena",
+        "symbol": "ENA",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/ena.png",
+        "coinGeckoId": "ethena"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xd1d2Eb1B1e90B638588728b4130137D262C87cae",
+        "name": "Gala",
+        "symbol": "GALA",
+        "description": "",
+        "decimals": 8,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/gala.png",
+        "coinGeckoId": "gala"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x0954906da0Bf32d5479e25f46056d22f08464cab",
+        "name": "Index",
+        "symbol": "INDEX",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/index.png",
+        "coinGeckoId": "gala"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+        "name": "KyberNetwork",
+        "symbol": "KNC.old",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/knc_old.png",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "erc20",
+        "contract": "0x0C10bF8FcB7Bf5412187A595ab97a3609160b5c6",
+        "name": "Decentralized USD",
+        "symbol": "USDD",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdd.png",
+        "coinGeckoId": "usdd"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x7DCc0A436D819BB5c6BDe4f286e82d79e492EA98",
+        "name": "Sentinel",
+        "symbol": "P2P",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/dvpn.png",
+        "coinGeckoId": "sentinel"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x8408d45b61f5823298f19a09b53b7339c0280489",
+        "name": "Allora",
+        "symbol": "ALLO",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/allo.png",
+        "coinGeckoId": "allora"
     }
 ]
 
