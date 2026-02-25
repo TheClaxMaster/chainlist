@@ -626,7 +626,7 @@
         "type": "erc20",
         "contract": "0x5860a0bF37133f8461b2DEDe7C80e55D6bfF3721",
         "name": "Frax Share",
-        "symbol": "FXS",
+        "symbol": "FRAX.axl",
         "description": "",
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/fxs.svg",
@@ -711,5 +711,185 @@
         "decimals": 18,
         "image": "https://etherscan.io/token/images/zro_32.png",
         "coinGeckoId": "layerzero"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+        "name": "Balancer",
+        "symbol": "BAL",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/bal.png",
+        "coinGeckoId": "balancer"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xab7bAdEF82E9Fe11f6f33f87BC9bC2AA27F2fCB5",
+        "name": "Maker",
+        "symbol": "MKR",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/mkr.png",
+        "coinGeckoId": "maker"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+        "name": "Perpetual",
+        "symbol": "PERP",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/perp.png",
+        "coinGeckoId": "perpetual-protocol"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xAd42D013ac31486B73b6b059e748172994736426",
+        "name": "1INCH Token",
+        "symbol": "1INCH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/1inch.png",
+        "coinGeckoId": "1inch"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x9046D36440290FfDE54FE0DD84Db8b1CfEE9107B",
+        "name": "yearn.finance",
+        "symbol": "YFI",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/yfi.png",
+        "coinGeckoId": "yearn-finance"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xC1c167CC44f7923cd0062c4370Df962f9DDB16f5",
+        "name": "Pepe",
+        "symbol": "PEPE",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/pepe.png",
+        "coinGeckoId": "pepe"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+        "name": "ENA",
+        "symbol": "ENA",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/ena.png",
+        "coinGeckoId": "ethena"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x65559aA14915a70190438eF90104769e5E890A00",
+        "name": "Ethereum Name Service",
+        "symbol": "ENS",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/ens.png",
+        "coinGeckoId": "ethereum-name-service"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+        "name": "USDe",
+        "symbol": "USDe",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/usde.png",
+        "coinGeckoId": "ethena-usde"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x3eaEb77b03dBc0F6321AE1b72b2E9aDb0F60112B",
+        "name": "Sushi",
+        "symbol": "SUSHI",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/sushi.png",
+        "coinGeckoId": "sushi"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
+        "name": "AAVE",
+        "symbol": "AAVE",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/aave.png",
+        "coinGeckoId": "aave"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x6fd9d7AD17242c41f7131d257212c54A0e816691",
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "description": "Uniswap",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/uni.png",
+        "coinGeckoId": "uniswap"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xba1Cf949c382A32a09A17B2AdF3587fc7fA664f1",
+        "name": "Wrapped SOL",
+        "symbol": "SOL",
+        "description": "",
+        "decimals": 9,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/sol.png",
+        "coinGeckoId": "solana"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x9560e827aF36c94D2Ac33a39bCE1Fe78631088Db",
+        "name": "VelodromeV2",
+        "symbol": "VELO",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/velo.png",
+        "coinGeckoId": "velodrome-finance"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x0994206dfE8De6Ec6920FF4D779B0d950605Fb53",
+        "name": "Curve DAO Token",
+        "symbol": "CRV",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/crv.png",
+        "coinGeckoId": "curve-dao-token"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97",
+        "name": "StargateToken",
+        "symbol": "STG",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/stg.png",
+        "coinGeckoId": "stargate-finance"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x67CCEA5bb16181E7b4109c9c2143c24a1c2205Be",
+        "name": "Frax Share",
+        "symbol": "FRAX",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/frax.png",
+        "coinGeckoId": "frax-share"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x64445f0aecC51E94aD52d8AC56b7190e764E561a",
+        "name": "Frax",
+        "symbol": "FRAX.lz",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/optimism/asset/wfrax.png",
+        "coinGeckoId": "wrapped-frax"
     }
 ]
