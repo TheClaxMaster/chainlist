@@ -1482,5 +1482,45 @@
                 "denom": "FX"
             }
         }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/D9E40E9047E09AAC6CDF9D133AC54C778B44A03690A91B9F5EDFF9F53C2A0977",
+        "name": "Allora",
+        "symbol": "ALLO",
+        "description": "Allo on the Cosmos Hub",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/allo.png",
+        "coinGeckoId": "allora",
+        "ibc_info" : {
+            "path": "ethereum>cosmos",
+            "counterparty": {
+                "ICS20ContractAddress": "0xa348cfe719b63151f228e3c30eb424ba5a983012",
+                "channel": "cosmoshub-0",
+                "port": "transfer",
+                "chain": "ethereum",
+                "denom": "0x8408D45b61f5823298F19a09B53b7339c0280489"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/97E730905DD1E58AEBCCEDB714D9FF88378401F78CC7124AC14D9114A026BC23",
+        "name": "JPY Coin",
+        "symbol": "JPYC",
+        "description": "JPY Coin on the Cosmos Hub",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/jpyc.png",
+        "coinGeckoId": "jpycoin",
+        "ibc_info" : {
+            "path": "ethereum>cosmos",
+            "counterparty": {
+                "ICS20ContractAddress": "0xa348cfe719b63151f228e3c30eb424ba5a983012",
+                "channel": "cosmoshub-0",
+                "port": "transfer",
+                "chain": "ethereum",
+                "denom": "0xe7c3d8c9a439fede00d2600032d5db0be71c3c29"
+            }
+        }
     }
 ]
