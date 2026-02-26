@@ -55,5 +55,28 @@
                 "denom": "stadydx"
             }
         }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/E901426A5E7A5251282345748F08CA91A3D8F35D074A9FE9B7BBFF7884E1E246",
+        "name": "Ripple",
+        "symbol": "XRP.coreum",
+        "description": "XRP bridged from Coreum XRPL",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/xrp.png",
+        "coinGeckoId": "ripple",
+        "ibc_info": {
+            "path": "coreum>dydx",
+            "client": {
+                "channel": "channel-14",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-24",
+                "port": "transfer",
+                "chain": "coreum",
+                "denom": "drop-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz"
+            }
+        }
     }
 ]

@@ -239,5 +239,28 @@
                 "denom": "ibc/D0E789BB93334EB38AD6F710812A186CC209025E49FA68BEABBA5D00C4A8CBC4"
             }
         }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/694A6B26A43A2FBECCFFEAC022DEACB39578E54207FDD32005CD976B57B98004",
+        "name": "WETH",
+        "symbol": "WETH",
+        "description": "WETH via Eureka",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "coinGeckoId": "weth",
+        "ibc_info": {
+            "path": "cosmos>elys",
+            "client": {
+                "channel": "channel-1",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-1266",
+                "port": "transfer",
+                "chain": "cosmos",
+                "denom": "ibc/C0B53D3D23827AE38058BED0BDCD554229278AF530A8D265FCF6DFF7C4B2ADFF"
+            }
+        }
     }
 ]

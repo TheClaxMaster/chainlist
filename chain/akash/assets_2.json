@@ -240,5 +240,28 @@
                 "denom": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858"
             }
         }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/140A34459BD0720DDF3B13E7B7C8B3667744CD49ED79E018578EF87E8CB203C5",
+        "name" : "USDC",
+        "symbol": "USDC",
+        "description": "USD Coin - Directly minted on the Noble chain by the Circle Foundation.",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/noble/asset/usdc.png",
+        "coinGeckoId": "usd-coin",
+        "ibc_info" : {
+            "path": "noble>akash",
+            "client" : {
+                "channel": "channel-17",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-184",
+                "port": "transfer",
+                "chain": "noble",
+                "denom": "uusdc"
+            }
+        }
     }
 ]

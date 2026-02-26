@@ -1215,5 +1215,78 @@
                 "denom": "transfer/08-wasm-1369/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
             }
         }
+    },
+    {   "type": "native",
+        "denom": "factory/neutron17sp75wng9vl2hu3sf4ky86d7smmk3wle9gkts2gmedn9x4ut3xcqa5xp34/maxbtc",
+        "name" : "maxBTC",
+        "symbol": "maxBTC",
+        "description": "",
+        "decimals": 8,
+        "image": "https://raw.githubusercontent.com/skip-mev/skip-go-registry/main/chains/neutron-1/images/maxbtc.svg",
+        "coinGeckoId": "maxbtc"
+    },
+    {   "type": "native",
+        "denom": "factory/neutron19lxlnqwzncg3dfty3umxvdxtgttnp3fefeqhmtg8xjrsz9vngnaq3yu8vn/eclipASTRO",
+        "name" : "eclipASTRO",
+        "symbol": "eclipASTRO",
+        "description": "",
+        "decimals": 8,
+        "image": "https://raw.githubusercontent.com/skip-mev/skip-go-registry/main/chains/neutron-1/images/eclip-astro.png",
+        "coinGeckoId": ""
+    },
+    {   "type": "native",
+        "denom": "coinfactory.neutron14ga4max0v2h996hun8l2nd7qrnzj2n6wcm6suym0ga4phgz7w2rsyyysqs.wmaxbtc",
+        "name" : "maxBTC",
+        "symbol": "maxBTC.eureka",
+        "description": "",
+        "decimals": 8,
+        "image": "https://raw.githubusercontent.com/skip-mev/skip-go-registry/main/chains/neutron-1/images/maxbtc.svg",
+        "coinGeckoId": ""
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/694A6B26A43A2FBECCFFEAC022DEACB39578E54207FDD32005CD976B57B98004",
+        "name" : "ETH",
+        "symbol": "ETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+        "coinGeckoId": "ethereum",
+        "ibc_info" : {
+            "path": "cosmos>neutron",
+            "client" : {
+                "channel": "channel-1",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-569",
+                "port": "transfer",
+                "chain": "cosmos",
+                "denom": "ibc/C0B53D3D23827AE38058BED0BDCD554229278AF530A8D265FCF6DFF7C4B2ADFF"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/0E293A7622DC9A6439DB60E6D234B5AF446962E27CA3AB44D0590603DFF6968E",
+        "name" : "Wrapped Bitcoin",
+        "symbol": "WBTC",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wbtc.png",
+        "coinGeckoId": "wrapped-bitcoin",
+        "ibc_info" : {
+            "path": "cosmos>neutron",
+            "client" : {
+                "channel": "channel-1",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-569",
+                "port": "transfer",
+                "chain": "cosmos",
+                "denom": "ibc/D742E8566B0B8CC8F569D950051C09CF57988A88F0E45574BFB3079D41DE6462"
+            }
+        }
     }
 ]

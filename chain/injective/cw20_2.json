@@ -504,5 +504,15 @@
         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/alpha.png",
         "coinGeckoId": "alphacoin",
         "color": ""
+    },
+    {
+        "type": "cw20",
+        "contract": "inj1p3nrwgm9u3dtln6rwdvrsmjt5fwlhhhq3ugckd",
+        "name" : "Aeroscraper aUSD",
+        "symbol": "aUSD.aeroscraper",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/injective/asset/aeros.png",
+        "coinGeckoId": ""
     }
 ]

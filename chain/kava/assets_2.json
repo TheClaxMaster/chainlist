@@ -346,5 +346,28 @@
                 "denom": "erc20/0xfbF4318d24a93753F11d365A6dcF8b830e98Ab0F"
             }
         }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/A40A4C0280DF70A6E5117722F3204520793FC536C722861470AF5792CE7613AC",
+        "name": "Ripple",
+        "symbol": "XRP.coreum",
+        "description": "XRP bridged from Coreum XRPL",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/xrp.png",
+        "coinGeckoId": "ripple",
+        "ibc_info": {
+            "path": "coreum>kava",
+            "client": {
+                "channel": "channel-142",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-18",
+                "port": "transfer",
+                "chain": "coreum",
+                "denom": "drop-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz"
+            }
+        }
     }
 ]
