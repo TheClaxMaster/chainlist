@@ -1522,5 +1522,45 @@
                 "denom": "0xe7c3d8c9a439fede00d2600032d5db0be71c3c29"
             }
         }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/AF4018FCB39B8BB112FC95AEE1A5A282DE628967B3664D56BC300935151EF162",
+        "name": "NIL",
+        "symbol": "NIL",
+        "description": "NIL on the Cosmos Hub",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nillion/asset/nil.png",
+        "coinGeckoId": "nillion",
+        "ibc_info" : {
+            "path": "ethereum>cosmos",
+            "counterparty": {
+                "ICS20ContractAddress": "0xa348cfe719b63151f228e3c30eb424ba5a983012",
+                "channel": "cosmoshub-0",
+                "port": "transfer",
+                "chain": "ethereum",
+                "denom": "0x7cf9a80db3b29ee8efe3710aadb7b95270572d47"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/D0BD765CF2EC6B97264795351BD75685A7B806F857D7D84633F5AC5E4A9812ED",
+        "name": "SEDA",
+        "symbol": "SEDA",
+        "description": "SEDA on the Cosmos Hub",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/seda.png",
+        "coinGeckoId": "seda-2",
+        "ibc_info" : {
+            "path": "ethereum>cosmos",
+            "counterparty": {
+                "ICS20ContractAddress": "0xa348cfe719b63151f228e3c30eb424ba5a983012",
+                "channel": "cosmoshub-0",
+                "port": "transfer",
+                "chain": "ethereum",
+                "denom": "0x14862c03A0cACcC1aB328B062E64e31B2a1afcd7"
+            }
+        }
     }
 ]
