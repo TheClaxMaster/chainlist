@@ -1622,5 +1622,74 @@
                 "denom": "0x7DCc0A436D819BB5c6BDe4f286e82d79e492EA98"
             }
         }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/71E2B01CE910F64B3F1242AB02E0E86B8C9B584C4662BD9ED6EDB558E2A9C897",
+        "name": "Ripple",
+        "symbol": "XRP.coreum",
+        "description": "XRP bridged from Coreum XRPL",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/xrp.png",
+        "coinGeckoId": "ripple",
+        "ibc_info": {
+            "path": "coreum>cosmos",
+            "client": {
+                "channel": "channel-660",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-9",
+                "port": "transfer",
+                "chain": "coreum",
+                "denom": "drop-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/3D0840AB3557CC2940D100C1633690143AB4F392AF969EB0660142A9A5B1FE74",
+        "name": "wstETH",
+        "symbol": "wstETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/wsteth.png",
+        "coinGeckoId": "wrapped-steth",
+        "ibc_info": {
+            "path": "neutron>cosmos",
+            "client": {
+                "channel": "channel-569",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-1",
+                "port": "transfer",
+                "chain": "neutron",
+                "denom": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/FFE1572627ECF442D6E2CA653000FACBA33824732012BCE63DFC25F1E813E5B3",
+        "name": "TON.orai",
+        "symbol": "TON.orai",
+        "description": "",
+        "decimals": 9,
+        "image": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ton/images/ton.png",
+        "coinGeckoId": "the-open-network",
+        "ibc_info": {
+            "path": "orai-chain>cosmos",
+            "client": {
+                "channel": "channel-301",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-15",
+                "port": "transfer",
+                "chain": "orai-chain",
+                "denom": "factory/orai1wuvhex9xqs3r539mvc6mtm7n20fcj3qr2m0y9khx6n5vtlngfzes3k0rq9/ton"
+            }
+        }
     }
 ]
