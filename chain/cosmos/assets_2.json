@@ -1562,5 +1562,45 @@
                 "denom": "0x14862c03A0cACcC1aB328B062E64e31B2a1afcd7"
             }
         }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/F8215CF2CD97294057DBECAA45E3ABEB6012D25550750DA8EC56BEC73F0E522F",
+        "name": "COREUM",
+        "symbol": "COREUM",
+        "description": "COREUM on the Cosmos Hub",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/core.png",
+        "coinGeckoId": "coreum",
+        "ibc_info" : {
+            "path": "ethereum>cosmos",
+            "counterparty": {
+                "ICS20ContractAddress": "0xa348cfe719b63151f228e3c30eb424ba5a983012",
+                "channel": "cosmoshub-0",
+                "port": "transfer",
+                "chain": "ethereum",
+                "denom": "0x176B2c8bAD684dA318fC7F417EEFd97D9a705a7D"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/D9CC216F5F718DD49A08A92FDCB179E9E69AD2A379F4894B03632D78E63C1BCA",
+        "name": "NIL.old",
+        "symbol": "NIL.old",
+        "description": "NIL.old on the Cosmos Hub",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nillion/asset/nil.png",
+        "coinGeckoId": "nillion",
+        "ibc_info" : {
+            "path": "ethereum>cosmos",
+            "counterparty": {
+                "ICS20ContractAddress": "0xa348cfe719b63151f228e3c30eb424ba5a983012",
+                "channel": "cosmoshub-0",
+                "port": "transfer",
+                "chain": "ethereum",
+                "denom": "0x6b7de496080e26ee8567a60b7b823b7e28ebe224"
+            }
+        }
     }
 ]

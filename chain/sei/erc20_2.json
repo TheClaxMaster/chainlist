@@ -149,5 +149,45 @@
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/frxusd.png",
         "coinGeckoId": "frax-usd"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x3894085Ef7Ff0f0aeDf52E2A2704928d1Ec074F1",
+        "name": "Noble USDC",
+        "symbol": "USDC.n",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/usdc.png",
+        "coinGeckoId": "usd-coin"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xB75D0B03c06A926e488e2659DF1A861F860bD3d1",
+        "name": "USDT0",
+        "symbol": "USDT.kava",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/usdt.png",
+        "coinGeckoId": "tether"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x9151434b16b9763660705744891fA906F660EcC5",
+        "name": "USD₮0",
+        "symbol": "USDT",
+        "description": "",
+        "decimals": 6,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/usdt.png",
+        "coinGeckoId": "tether"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+        "name": "Frax USD",
+        "symbol": "frxUSD",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/frxusd.png",
+        "coinGeckoId": "frax-usd"
     }
 ]

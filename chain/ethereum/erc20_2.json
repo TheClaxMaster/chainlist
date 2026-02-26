@@ -4585,7 +4585,7 @@
         "name": "NIL.old",
         "symbol": "NIL.old",
         "description": "",
-        "decimals": 6,
+        "decimals": 18,
         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/nillion/asset/nil.png",
         "coinGeckoId": "nillion"
     },
@@ -4635,7 +4635,7 @@
         "name": "COREUM",
         "symbol": "COREUM",
         "description": "",
-        "decimals": 6,
+        "decimals": 18,
         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/core.png",
         "coinGeckoId": "coreum"
     },
@@ -4838,6 +4838,16 @@
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/allo.png",
         "coinGeckoId": "allora"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xe7c3d8c9a439fede00d2600032d5db0be71c3c29",
+        "name": "JPY Coin",
+        "symbol": "JPYC",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/jpyc.png",
+        "coinGeckoId": "jpycoin"
     }
 ]
 
