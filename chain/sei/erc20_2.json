@@ -189,5 +189,15 @@
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/frxusd.png",
         "coinGeckoId": "frax-usd"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xe369ddC65Ec947FCB10262AA0E08C3fB9823001a",
+        "name": "Wrapped Bitcoin",
+        "symbol": "WBTC.wh",
+        "description": "",
+        "decimals": 8,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/sei/asset/wbtc.png",
+        "coinGeckoId": "wrapped-bitcoin"
     }
 ]
