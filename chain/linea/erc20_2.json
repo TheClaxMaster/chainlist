@@ -201,5 +201,25 @@
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/avax.png",
         "coinGeckoId": "avalanche-2"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x1bD0Fe8E92a157D3ef66C9FB9e38621252b407c2",
+        "name": "Kelp Gain",
+        "symbol": "agETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/axelarnetwork/axelar-configs/main/images/tokens/agETH.svg",
+        "coinGeckoId": "kelp-gain"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x9cfB13E6c11054ac9fcB92BA89644F30775436e4",
+        "name": "wstETH.axl",
+        "symbol": "wstETH.axl",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/linea/asset/wsteth.png",
+        "coinGeckoId": "wrapped-steth"
     }
 ]

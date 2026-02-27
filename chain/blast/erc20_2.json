@@ -180,5 +180,35 @@
         "decimals": 18,
         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/omni.png",
         "coinGeckoId": "omnicat"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x58538e6A46E07434d7E7375Bc268D3cb839C0133",
+        "name": "Ethena",
+        "symbol": "ENA",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/ena.png",
+        "coinGeckoId": "ethena"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x909DBdE1eBE906Af95660033e478D59EFe831fED",
+        "name": "Frax USD",
+        "symbol": "frxUSD",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/blast/asset/frxusd.png",
+        "coinGeckoId": "staked-frax-usd"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x1bD0Fe8E92a157D3ef66C9FB9e38621252b407c2",
+        "name": "Kelp Gain",
+        "symbol": "agETH",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/axelarnetwork/axelar-configs/main/images/tokens/agETH.svg",
+        "coinGeckoId": "kelp-gain"
     }
 ]

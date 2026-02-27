@@ -920,5 +920,145 @@
         "decimals": 18,
         "image": "https://etherscan.io/token/images/zro_32.png",
         "coinGeckoId": "layerzero"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+        "name": "Wrapped Bitcoin",
+        "symbol": "WBTC.lz",
+        "description": "Wrapped Bitcoin",
+        "decimals": 8,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/wbtc.png",
+        "coinGeckoId": "wrapped-bitcoin"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
+        "name": "Sushi",
+        "symbol": "SUSHI",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
+        "coinGeckoId": "sushi"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xa9004A5421372E1D83fB1f85b0fc986c912f91f3",
+        "name": "Wrapped BNB",
+        "symbol": "WBNB",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/wbnb.png",
+        "coinGeckoId": "wbnb"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
+        "name": "Compound",
+        "symbol": "COMP",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/comp.png",
+        "coinGeckoId": "compound-governance-token"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
+        "name": "yearn.finance",
+        "symbol": "YFI",
+        "description": "yearn.finance",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/yfi.png",
+        "coinGeckoId": "yearn-finance"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xd501281565bf7789224523144Fe5D98e8B28f267",
+        "name": "1INCH Token",
+        "symbol": "1INCH",
+        "description": "1INCH Token",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/1inch.png",
+        "coinGeckoId": "1inch"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xE15bCB9E0EA69e6aB9FA080c4c4A5632896298C3",
+        "name": "Balancer",
+        "symbol": "BAL",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/bal.png",
+        "coinGeckoId": "balancer"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x88128fd4b259552A9A1D457f435a6527AAb72d42",
+        "name": "Maker",
+        "symbol": "MKR",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/mkr.png",
+        "coinGeckoId": "maker"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
+        "name": "Spell Token",
+        "symbol": "SPELL",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/arbitrum/0x3E6648C5a70A150A88bCE65F4aD4d506Fe15d2AF.jpg",
+        "coinGeckoId": "spell-token"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xaC800FD6159c2a2CB8fC31EF74621eB430287a5A",
+        "name": "Optimism",
+        "symbol": "OP",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/op.png",
+        "coinGeckoId": "optimism"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F",
+        "name": "SOL.wh",
+        "symbol": "SOL.wh",
+        "description": "",
+        "decimals": 9,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/sol.png",
+        "coinGeckoId": "sol-wormhole"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xBeC243C995409E6520D7C41E404da5dEba4b209B",
+        "name": "Synthetix",
+        "symbol": "SNX",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/snx.png",
+        "coinGeckoId": "havven"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
+        "name": "The Graph",
+        "symbol": "GRT",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/grt.png",
+        "coinGeckoId": "the-graph"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xceCB301c2e2A04dD631428C386DD21db70716F8a",
+        "name": "Metis Token",
+        "symbol": "Metis",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/avalanche/asset/metis.png",
+        "coinGeckoId": "metis-token"
     }
 ]

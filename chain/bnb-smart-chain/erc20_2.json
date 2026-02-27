@@ -1350,5 +1350,105 @@
         "decimals": 18,
         "image": "https://etherscan.io/token/images/zro_32.png",
         "coinGeckoId": "layerzero"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xe552Fb52a4F19e44ef5A967632DBc320B0820639",
+        "name": "Metis Token",
+        "symbol": "Metis",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/metis.png",
+        "coinGeckoId": "metis-token"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x4e7f408be2d4E9D60F49A64B89Bb619c84C7c6F5",
+        "name": "Perpetual",
+        "symbol": "PERP",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/perp.png",
+        "coinGeckoId": "perpetual-protocol"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xfA54fF1a158B5189Ebba6ae130CEd6bbd3aEA76e",
+        "name": "SOL.wh",
+        "symbol": "SOL.wh",
+        "description": "",
+        "decimals": 9,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/sol.png",
+        "coinGeckoId": "sol-wormhole"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x90C97F71E18723b0Cf0dfa30ee176Ab653E89F40",
+        "name": "Frax USD",
+        "symbol": "frxUSD",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/frxusd.png",
+        "coinGeckoId": "frax-usd"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x111111111117dC0aa78b770fA6A738034120C302",
+        "name": "1INCH Token",
+        "symbol": "1INCH",
+        "description": "1INCH Token",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/1inch.png",
+        "coinGeckoId": "1inch"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
+        "name": "Alpha Finance",
+        "symbol": "ALPHA",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/alpha.png",
+        "coinGeckoId": "alpha-finance"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
+        "name": "SushiToken",
+        "symbol": "SUSHI",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
+        "coinGeckoId": "sushi"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x52CE071Bd9b1C4B00A0b92D298c512478CaD67e8",
+        "name": "Compound",
+        "symbol": "COMP",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/comp.png",
+        "coinGeckoId": "compound-governance-token"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/dai.png",
+        "coinGeckoId": "dai"
+    },
+    {
+        "type": "erc20",
+        "contract": "0xB0D502E938ed5f4df2E681fE6E419ff29631d62b",
+        "name": "Stargate Finance",
+        "symbol": "STG",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bnb-smart-chain/asset/stg.png",
+        "coinGeckoId": "stargate-finance"
     }
 ]

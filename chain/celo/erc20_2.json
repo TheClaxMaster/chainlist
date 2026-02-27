@@ -101,5 +101,35 @@
         "decimals": 9,
         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celo/asset/plastik.png",
         "coinGeckoId": "plastiks"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x2DEf4285787d58a2f811AF24755A8150622f4361",
+        "name": "WETH",
+        "symbol": "WETH",
+        "description": "WETH",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celo/asset/weth.png",
+        "coinGeckoId": "weth"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x52dA31b925F571882D7F8f6a9C6fB39d80D2Fe20",
+        "name": "Frax Share",
+        "symbol": "FXS",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/0xsquid/assets/main/images/master/tokens/fxs.svg",
+        "coinGeckoId": "frax-share"
+    },
+    {
+        "type": "erc20",
+        "contract": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+        "name": "Wcelo",
+        "symbol": "WCELO",
+        "description": "",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/celo/asset/celo.png",
+        "coinGeckoId": "celo"
     }
 ]
