@@ -138,5 +138,28 @@
                 "denom": "uusdrise"
             }
         }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/524AAE768CEDA2D0D46402AE6558922514546D46C319466AE10DE4870C8A94E9",
+        "name": "Ripple",
+        "symbol": "XRP.coreum",
+        "description": "XRP bridged from Coreum XRPL",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/xrp.png",
+        "coinGeckoId": "ripple",
+        "ibc_info": {
+            "path": "xrpl>coreum>noble",
+            "client": {
+                "channel": "channel-49",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-19",
+                "port": "transfer",
+                "chain": "coreum",
+                "denom": "drop-core1zhs909jp9yktml6qqx9f0ptcq2xnhhj99cja03j3lfcsp2pgm86studdrz"
+            }
+        }
     }
 ]

@@ -66,7 +66,7 @@
         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/xrp.png",
         "coinGeckoId": "ripple",
         "ibc_info": {
-            "path": "coreum>dydx",
+            "path": "xrpl>coreum>dydx",
             "client": {
                 "channel": "channel-14",
                 "port": "transfer"

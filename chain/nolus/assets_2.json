@@ -77,5 +77,74 @@
                 "denom": "factory/neutron1k6hr0f83e7un2wjf29cspk7j69jrnskk65k3ek2nj9dztrlzpj6q00rtsa/udatom"
             }
         }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/762E1E45658845A12E214A91C3C05FDFC5951D60404FAADA225A369A96DCD9A9",
+        "name" : "Alloyed SOL",
+        "symbol": "allSOL",
+        "description": "An alloy of SOL asset variants on Osmosis.",
+        "decimals": 9,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/solana/asset/sol.png",
+        "coinGeckoId": "solana",
+        "ibc_info" : {
+            "path": "osmosis>nolus",
+            "client" : {
+                "channel": "channel-0",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-783",
+                "port": "transfer",
+                "chain": "osmosis",
+                "denom": "factory/osmo1n3n75av8awcnw4jl62n3l48e6e4sxqmaf97w5ua6ddu4s475q5qq9udvx4/alloyed/allSOL"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/7879B1CBBD2E07347002334792368E65C11A7D1629297D04B6A2155F557E02D4",
+        "name" : "Alloyed ETH",
+        "symbol": "allETH",
+        "description": "An alloy of ETH asset variants on Osmosis.",
+        "decimals": 18,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/eth.png",
+        "coinGeckoId": "ethereum",
+        "ibc_info" : {
+            "path": "osmosis>nolus",
+            "client" : {
+                "channel": "channel-0",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-783",
+                "port": "transfer",
+                "chain": "osmosis",
+                "denom": "factory/osmo1k6c8jln7ejuqwtqmay3yvzrg3kueaczl96pk067ldg8u835w0yhsw27twm/alloyed/allETH"
+            }
+        }
+    },
+    {
+        "type": "ibc",
+        "denom": "ibc/E45CFCB959F4F6D1065B7033EE49A88E606E6AD82E75725219B3D68B0FA89987",
+        "name" : "Alloyed BTC",
+        "symbol": "allBTC",
+        "description": "An alloy of BTC asset variants on Osmosis.",
+        "decimals": 8,
+        "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/bitcoin/asset/btc.png",
+        "coinGeckoId": "bitcoin",
+        "ibc_info" : {
+            "path": "osmosis>nolus",
+            "client" : {
+                "channel": "channel-0",
+                "port": "transfer"
+            },
+            "counterparty": {
+                "channel": "channel-783",
+                "port": "transfer",
+                "chain": "osmosis",
+                "denom": "factory/osmo1z6r6qdknhgsc0zeracktgpcxf43j6sekq07nw8sxduc9lg0qjjlqfu25e3/alloyed/allBTC"
+            }
+        }
     }
 ]

@@ -357,7 +357,7 @@
         "image": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/coreum/asset/xrp.png",
         "coinGeckoId": "ripple",
         "ibc_info": {
-            "path": "coreum>kava",
+            "path": "xrpl>coreum>kava",
             "client": {
                 "channel": "channel-142",
                 "port": "transfer"
